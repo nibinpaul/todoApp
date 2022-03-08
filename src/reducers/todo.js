@@ -3,8 +3,8 @@ import ACTIONS from "../actions/action-types";
 
 const initialState = {
   items: [
-    { id: "dasda", value: "learn react", completed: false, priority: 2 },
-    { id: "123", value: "learn redux", completed: true, priority: 3 },
+    { id: "11", value: "learn react", completed: false, priority: 2 },
+    { id: "12", value: "learn redux", completed: true, priority: 3 },
   ],
   editingItem: {},
 };

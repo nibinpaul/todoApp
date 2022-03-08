@@ -2,9 +2,8 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nibinpaul.github.io/todoApp",
+  "homepage": "https://nibinpaul.github.io/todoapp/",
   "dependencies": {
-    "-": "0.0.1",
     "@mdi/js": "^6.5.95",
     "@mdi/react": "^1.5.0",
     "@testing-library/jest-dom": "^5.16.2",

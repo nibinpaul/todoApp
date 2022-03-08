@@ -3,8 +3,6 @@ import { mdiCalendarEdit, mdiClose } from "@mdi/js";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { toggleTodo } from "../actions/todo";
-import { useState } from "react";
-import Badge from "./badge";
 import PriorityBadge from "./badge";
 
 const Item = ({ item, onDelete }) => {
